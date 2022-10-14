@@ -11,7 +11,7 @@ In this CSS project, given a HTML starting code and starting CSS code, I as a pr
 ## What was done
 
 Screencapture of site: 
-![screenshot link](/classwork/week-1/css-application-site/assets/images/horiseon-html-page-screenshot.jpg)
+![screenshot link](https://github.com/jessikea/css-application-site/blob/bdacfe79f3966b187a30a7303d76e59a3fefe957/assets/images/horiseon-html-page-screenshot.jpeg)
 
 Brief summary on what has been changed in CSS:
 1. "Benefit-lead", "benefit-brand", and "benefit-cost" were condensed into their shared class, "benefits" and repetitve coding was removed. Specific traits were specified by "div","ul","li","img", or "h#"
