@@ -87,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Condensed benefits class and removed unncessary repetitve coding */
+/* Condensed benefits class and removed unnecessary  repetitve coding */
 .benefits div{
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-/* Condensed content class and removed unnessary repetitive coding */
+/* Condensed content class and removed unnecessary repetitive coding */
 .content div{
     margin-bottom: 20px;
     padding: 50px;
