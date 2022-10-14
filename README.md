@@ -1,4 +1,4 @@
-# css-application-site
+# CSS-Horiseon-Site
 
 In this CSS project, given a HTML starting code and starting CSS code, I as a programmer was tasked to streamline the code and make it easier to interpret while maintaining its original functions and design. 
 
