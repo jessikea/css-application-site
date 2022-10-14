@@ -9,8 +9,6 @@ In this CSS project, given a HTML starting code and starting CSS code, I as a pr
 3. Use easily identifiable IDs and classes to distinguish from others and are organized to follow sematic structure.
 
 ## What was done
-
-https://vscode.dev/github/jessikea/css-application-site/blob/90440705013f0b9f7f875dfb782378a5fedf5c79/index.html#L10
 Screencapture of site: 
 
 ![screenshot link](https://github.com/jessikea/css-application-site/blob/bdacfe79f3966b187a30a7303d76e59a3fefe957/assets/images/horiseon-html-page-screenshot.jpeg)
