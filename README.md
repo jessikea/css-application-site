@@ -13,8 +13,4 @@ Screencapture of site:
 
 ![screenshot link](https://github.com/jessikea/css-application-site/blob/bdacfe79f3966b187a30a7303d76e59a3fefe957/assets/images/horiseon-html-page-screenshot.jpeg)
 
-![Horiseon link](jessikea.github.io](https://jessikea.github.io/css-application-site/)
-Brief summary on what has been changed in CSS:
-1. "Benefit-lead", "benefit-brand", and "benefit-cost" were condensed into their shared class, "benefits" and repetitve coding was removed. Specific traits were specified by "div","ul","li","img", or "h#"
-2. "search-engine-optimization", "online-reputation-management", "social-media-marketing", were condensed into their shared class, "content". Repetitive coding was removed and specific traits were specified by "div","ul","li","img", or "h#"
-3. .content images were condensed moved to the classes "float-left' and "float-right" sections. 
+![Horiseon link](https://jessikea.github.io/css-application-site/)
